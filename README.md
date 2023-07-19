@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Akesh</h1>
-<h2>Welcome to my profile <h2>
+<h2>Welcome to my profile</h2>
 
 
 
